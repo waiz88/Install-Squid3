@@ -1,3 +1,5 @@
 Khusus untuk debian saja, cara pakainya :
 
 git clone git://github.com/ipoelhuda/Install-Squid3.git
+cd Install-Squid3
+bash setup-squid.sh
